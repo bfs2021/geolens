@@ -758,7 +758,7 @@
     "adminOverview": "Admin Overview",
     "adminUsers": "Admin Users",
     "adminJobs": "Admin Jobs",
-    "adminAuditLog": "Admin Audit Log",
+    "adminAuditLog": "Audit Log",
     "adminConfigOps": "Admin Config Ops",
     "adminSettings": "Admin Settings",
     "adminSaml": "SAML SSO Configuration",
