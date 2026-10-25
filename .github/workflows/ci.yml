@@ -1330,7 +1330,7 @@ jobs:
 
       - name: CLI ruff check
         working-directory: cli
-        run: uvx ruff@0.12.2 check .
+        run: uv run --project ../backend ruff check .
 
       # Structural gate (1/2): no direct httpx/requests imports.
       # `grep -rE` returns exit 1 when no matches → success for us; flip
