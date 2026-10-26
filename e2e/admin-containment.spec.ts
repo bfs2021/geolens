@@ -14,7 +14,7 @@ test.describe('admin pages stay inside the viewport', () => {
       test(`${name} page at ${width}px`, async ({ page }) => {
         await page.setViewportSize({ width, height: 800 });
         await page.goto(path);
-        await expect(page.getByRole('heading', { level: 1, name: new RegExp(heading, 'i') })).toBeVisible({
+        await expect(page.getByRole('heading', { level: 1, name: heading, exact: true })).toBeVisible({
           timeout: 15_000,
         });
         await page.waitForLoadState('networkidle');
