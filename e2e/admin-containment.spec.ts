@@ -4,7 +4,7 @@ const PAGES = [
   { name: 'users', path: '/admin/users', heading: 'Users' },
   { name: 'jobs', path: '/admin/jobs', heading: 'Jobs' },
   { name: 'audit', path: '/admin/audit', heading: 'Audit Log' },
-  { name: 'SAML', path: '/admin/saml', heading: 'SAML' },
+  { name: 'SAML', path: '/admin/saml', heading: 'SAML SSO' },
 ];
 const WIDTHS = [320, 768, 1024];
 
