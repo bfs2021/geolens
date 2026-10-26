@@ -733,7 +733,7 @@
     "adminOverview": "Resumen admin",
     "adminUsers": "Usuarios admin",
     "adminJobs": "Tareas admin",
-    "adminAuditLog": "Registro de auditoría",
+    "adminAuditLog": "Registro de auditoría admin",
     "adminConfigOps": "Configuración admin",
     "adminSettings": "Ajustes admin",
     "adminSaml": "Configuración de SSO SAML",

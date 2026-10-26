@@ -733,7 +733,7 @@
     "adminOverview": "Admin-Übersicht",
     "adminUsers": "Admin-Benutzer",
     "adminJobs": "Admin-Aufträge",
-    "adminAuditLog": "Audit-Protokoll",
+    "adminAuditLog": "Admin-Audit-Protokoll",
     "adminConfigOps": "Admin-Konfiguration",
     "adminSettings": "Admin-Einstellungen",
     "adminSaml": "SAML-SSO-Konfiguration",
